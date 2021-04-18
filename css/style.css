@@ -234,10 +234,10 @@ body {
     background-color: #fff; }
 
 .btn--green {
-  background-color: #55c57a;
+  background-color: #1A1B25;
   color: #fff; }
   .btn--green::after {
-    background-color: #55c57a; }
+    background-color: #1A1B25; }
 
 .btn::after {
   content: "";
@@ -769,8 +769,7 @@ body {
   background-color: #333;
   padding: 10rem 0;
   font-size: 1.4rem;
-  color: #f7f7f7;
-  margin: 0 auto; }
+  color: #f7f7f7; }
   @media only screen and (max-width: 56.25em) {
     .footer {
       padding: 8rem 0; } }
