@@ -133,19 +133,21 @@ body {
       font-size: 3rem; } }
   @media only screen and (max-width: 37.5em) {
     .heading-secondary {
-      font-size: 2.5rem; } }
+      font-size: 2.2rem; } }
   .heading-secondary:hover {
     background-color: #eee;
     color: #000;
     text-shadow: 0.5rem 1rem 2rem rgba(0, 0, 0, 0.2); }
   .heading-secondary-1 {
     padding: 1.5rem;
-    font-size: 4rem;
+    font-size: 3.5rem;
+    border-radius: 10px;
     letter-spacing: 0.8rem;
     background-color: #5643fa; }
   .heading-secondary-2 {
     padding: 1.5rem;
-    font-size: 4rem;
+    font-size: 3.5rem;
+    border-radius: 10px;
     letter-spacing: 0.8rem;
     background-color: #2998ff; }
   .heading-secondary-3 {
