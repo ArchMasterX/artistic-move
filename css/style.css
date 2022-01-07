@@ -475,9 +475,6 @@ body {
   .feature-box-1 {
     background-image: url(../img/5.jpg);
     background-size: cover; }
-    .feature-box-1:hover {
-      background: transparent;
-      transition: all .8s; }
   .feature-box-2 {
     background-image: url(../img/6.jpg);
     background-size: cover; }
